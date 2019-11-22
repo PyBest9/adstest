@@ -1,0 +1,10 @@
+{
+  "cordova-plugin-ad-admob": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-ad-admob"
+    },
+    "is_top_level": true,
+    "variables": {}
+  }
+}

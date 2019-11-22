@@ -1,0 +1,68 @@
+{
+  "_from": "cordova-plugin-ad-admob",
+  "_id": "cordova-plugin-ad-admob@1.0.118",
+  "_inBundle": false,
+  "_integrity": "sha1-GXHcr/pgviAhVQuc82Y3fP3aKrc=",
+  "_location": "/cordova-plugin-ad-admob",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "cordova-plugin-ad-admob",
+    "name": "cordova-plugin-ad-admob",
+    "escapedName": "cordova-plugin-ad-admob",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-ad-admob/-/cordova-plugin-ad-admob-1.0.118.tgz",
+  "_shasum": "1971dcaffa60be2021550b9cf366377cfdda2ab7",
+  "_spec": "cordova-plugin-ad-admob",
+  "_where": "C:\\Users\\wahid\\Desktop\\test\\testads",
+  "author": {
+    "name": "cranberrygame"
+  },
+  "bugs": {
+    "url": "https://github.com/cranberrygame/cordova-plugin-ad-admob/issues"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "cordova-plugin-ad-admob",
+    "platforms": [
+      "android",
+      "ios",
+      "wp8"
+    ]
+  },
+  "deprecated": false,
+  "description": "Show admob banner, interstitial and rewarded video ad",
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "homepage": "https://github.com/cranberrygame/cordova-plugin-ad-admob#readme",
+  "keywords": [
+    "cordova",
+    "plugin",
+    "ad",
+    "admob",
+    "monetisation",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios",
+    "cordova-wp8"
+  ],
+  "license": "MIT",
+  "name": "cordova-plugin-ad-admob",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cranberrygame/cordova-plugin-ad-admob.git"
+  },
+  "version": "1.0.118"
+}
